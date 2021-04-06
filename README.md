@@ -7,7 +7,8 @@ Jupyter Notebook for the Exam of the Neural Computing course at UniCT
 In this notebook, I present a case study for modeling wine quality based on a dataset related to the red variant of the Portuguese “Vinho Verde” wine.
 The report is organized as follows: the first chapter describes the dataset; 
 in the second chapter, I discuss Exploratory Data Analysis (EDA) including data processing, missing values, correlation plots, outliers and so on; 
-the third chapter presents Deep Learning experiments and conclusions.
+the third chapter presents Deep Learning experiments and conclusions. The model contains one input layer, 3 hidden layers and one classifier:
+<img width="1115" alt="Schermata 2021-04-06 alle 17 00 06" src="https://user-images.githubusercontent.com/48251152/113732146-a093dc80-96f9-11eb-86d9-2f09ae11e279.png">
 
 
 ## Dataset
